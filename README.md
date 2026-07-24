@@ -8,6 +8,8 @@ slowly self-discharges and can drop into deep-discharge, which damages the
 battery. Flash this sketch, glance at the screen now and then, and plug in USB
 to top it up before it gets too low.
 
+<img src="./Image.jpeg" width="640" height="400" alt="Image">
+
 ## What it shows
 
 - A battery symbol with a fill bar and the charge level in percent
